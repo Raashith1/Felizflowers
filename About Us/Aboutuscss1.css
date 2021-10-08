@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+	font-family: 'Poppins',sans-serif;
+}
+
+.container .title h1{
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #D88383;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.container .title h1::after{
+	content: "";
+	height: 5px;
+	width: 100px;
+	background-color: #D88383;
+	border-radius: 25px;
+	display: block;
+	margin: auto;
+}
+
+.pg-section{
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.image-section{
+	margin-top: 20px;
+}
+
+.image-section-1 img{
+	margin-top: 30px;
+	width: 100%;
+}
+
+.pg-section-1 p{
+	
+	margin-top: 30px;
+	width: 100%;
+	font-size: 20px;
+}
