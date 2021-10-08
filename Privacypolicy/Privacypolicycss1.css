@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+	font-family: 'Poppins',sans-serif;
+}
+
+.container .title h1{
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #D88383;
+	margin-top: 30px;
+	text-align: center;
+}
+
+.security h2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.security-pg-1 p{
+	font-size: 20px;
+}
+
+.delivery h2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+.delivery-pg-1 p{
+	font-size: 20px;
+}
