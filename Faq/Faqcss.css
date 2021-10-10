@@ -1,0 +1,38 @@
+.title h1{
+	color: #D88383;
+	font-family: Roboto;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.tall {
+	color:#D88383 ;
+}
+
+.ans-1{
+	padding-left: 20px;
+	font-style: italic;
+	color: #808080;
+	margin-top: 10px;
+}
+
+.ans-2{
+	padding-left: 20px;
+	font-style: italic;
+	color: #808080;
+	margin-top: 10px;
+}
+
+.ans-3{
+	padding-left: 20px;
+	font-style: italic;
+	color: #808080;
+	margin-top: 10px;
+}
+.ans-4{
+	padding-left: 20px;
+	font-style: italic;
+	color: #808080;
+	margin-top: 10px;
+}
